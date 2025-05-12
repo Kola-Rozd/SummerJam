@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Blueprints/Test.uasset"
 			]
 		}
 	]
