@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Blueprints/Test.uasset"
+				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Blueprints/Test.uasset",
+				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Imports/Kola/testKola.uasset",
+				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Imports/Lewis/testLewis.uasset",
+				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Imports/Logan/teestLogan.uasset",
+				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Imports/Mathew/testMathew.uasset",
+				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Imports/testImports.uasset"
 			]
 		}
 	]
