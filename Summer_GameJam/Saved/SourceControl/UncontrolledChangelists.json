@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestCharacter.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestLaunchpad.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestCollectables.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/HeatBar.uasset",
 				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Blueprints/Test.uasset"
 			]
