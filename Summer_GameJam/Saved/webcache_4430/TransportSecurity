@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"expect_ct":[],"sts":[{"expiry":1747987589.566953,"host":"Z+rOkxFdI//y4dVtNJId/IvFZzTR9tsr5OFneG0q04o=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1747382789.566955},{"expiry":1762934786.388632,"host":"3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=","mode":"force-https","sts_include_subdomains":false,"sts_observed":1747382786.388635}],"version":2}
+=======
+{"expect_ct":[],"sts":[{"expiry":1747732885.735674,"host":"Z+rOkxFdI//y4dVtNJId/IvFZzTR9tsr5OFneG0q04o=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1747128085.735676},{"expiry":1762680084.470287,"host":"3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=","mode":"force-https","sts_include_subdomains":false,"sts_observed":1747128084.470289}],"version":2}
+>>>>>>> Blueprints
