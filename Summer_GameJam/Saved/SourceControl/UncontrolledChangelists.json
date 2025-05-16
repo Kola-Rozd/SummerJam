@@ -5,18 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/TestIsland.umap",
 				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/TestLevel_2.umap",
-=======
-				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestCharacter.uasset",
-				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestLaunchpad.uasset",
-				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestCollectables.uasset",
-				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/HeatBar.uasset",
->>>>>>> Blueprints
-				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/Blueprints/Test.uasset",
-				"C:/Users/COMP5275080/Documents/SummerGameJam/SummerJam/Summer_GameJam/Content/level/test.umap"
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/StarterContent/Materials/M_Water_Ocean.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/StarterContent/Shapes/Ocean_SM.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestReset.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/TestReset.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Fab/MI_sjzkfega.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Fab/T_sjzkfega_1K_B.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Fab/T_sjzkfega_1K_N.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Fab/T_sjzkfega_1K_ORM.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Materials/MI_sjzkfega.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Materials/T_sjzkfega_1K_B.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Materials/T_sjzkfega_1K_ORM.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Materials/T_sjzkfega_1K_N.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/M_Ground_Grass.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/StarterContent/Materials/M_Ground_Grass.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Materials/M_Ground_Grass.uasset",
+				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/Materials/SandPainting.uasset"
 			]
 		}
 	]
