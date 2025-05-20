@@ -5,16 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/comp5263766/OneDrive - Gloucestershire College/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/TestLevel_2.umap",
-				"C:/Users/comp5280898/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestCharacter.uasset"
-=======
-				"C:/Users/comp5280898/Documents/GitHub/SummerJam/Summer_GameJam/Content/Blueprints/TestCharacter.uasset",
-				"C:/Users/comp5280898/Documents/GitHub/SummerJam/Summer_GameJam/Content/Menu/SettingsMenu.uasset",
-				"C:/Users/comp5280898/Documents/GitHub/SummerJam/Summer_GameJam/Content/Menu/MenuLevel.umap",
 				"C:/Users/comp5280898/Documents/GitHub/SummerJam/Summer_GameJam/Content/Menu/MainMenu.uasset",
-				"C:/Users/comp5280898/Documents/GitHub/SummerJam/Summer_GameJam/Content/Menu/MenuGamemode.uasset"
->>>>>>> Menu
+				"C:/Users/comp5280898/Documents/GitHub/SummerJam/Summer_GameJam/Content/level/FinalLevel.umap"
 			]
 		}
 	]
